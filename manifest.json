@@ -1,8 +1,13 @@
 {
   "manifest_version": 3,
   "name": "Flag Emoji Tooltip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds hover tooltips to flag emojis showing the country or flag name.",
+  "developer": {
+    "name": "Joe Cline",
+    "url": "https://github.com/joewelds/flag-decoder"
+  },
+  "homepage_url": "https://github.com/joewelds/flag-decoder",
   "icons": {
     "48": "icons/flag-tooltip-48.svg",
     "96": "icons/flag-tooltip-96.svg"
@@ -17,7 +22,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "flag-emoji-tooltip@example.local",
+      "id": "flag-emoji-tooltip@joecline-personal-tools",
       "strict_min_version": "109.0"
     }
   }

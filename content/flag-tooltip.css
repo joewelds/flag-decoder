@@ -1,1 +1,5 @@
-
+.flag-emoji-tooltip {
+  cursor: help;
+  text-decoration: underline dotted;
+  text-underline-offset: 0.12em;
+}

@@ -21,12 +21,12 @@
     }
   ],
   "browser_specific_settings": {
-    "gecko": {
-      "id": "flag-emoji-tooltip@joecline-personal-tools",
-      "strict_min_version": "109.0",
-      "data_collection_permissions": {
-        "required": ["none"]
-      }
+  "gecko": {
+    "id": "flag-emoji-tooltip@joecline-personal-tools",
+    "strict_min_version": "140.0",
+    "data_collection_permissions": {
+      "required": ["none"]
     }
   }
+}
 }
